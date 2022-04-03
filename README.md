@@ -14,6 +14,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### Tip 
+Cannot find node_module directory after cloning the repositroy? here is the trick.....
+when you clone the repository from GitHub you will not find node_modules directory because of its large size so you should run
+
+```
+npm install
+```
+
+So the npm package manager will look at package.json file and install all listed packages under all the dependencies property
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
