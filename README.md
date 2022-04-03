@@ -14,7 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### Tip 
+# Tip 
+
 Cannot find node_module directory after cloning the repositroy? here is the trick.....
 when you clone the repository from GitHub you will not find node_modules directory because of its large size so you should run
 
