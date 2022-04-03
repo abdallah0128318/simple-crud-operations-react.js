@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "fanta",
+      "body": "fanta is delicious",
+      "author": "Youshi",
+      "id": 2
+    },
+    {
+      "title": "i like kola",
+      "body": "i know it is not healthy but i like it :)",
+      "author": "Youshi",
+      "id": 3
+    }
+  ]
+}
